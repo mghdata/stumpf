@@ -13,7 +13,6 @@ Concordance of document numbers ("Regesta")
 and pages with links to the digitized
 volume at the Bavarian State Library
 <https://daten.digitale-sammlungen.de/~db/0000/bsb00001189/images/>
-urn:nbn:de:bvb:12-bsb00001189-0
 
 The main data is kept in ``data/stumpf_2_pages.json``.
 The inverted list in ``data/stumpf_2_docs.json`` can be
