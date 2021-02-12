@@ -2,7 +2,7 @@
 Stumpf
 ******
 
-Karl Friedrich Stumpf Brentano,
+Karl Friedrich Stumpf-Brentano,
 Die Reichskanzler vornehmlich des
 X., XI. und XII.  Jahrhunderts.
 Nebst einem Beitrage zu den
