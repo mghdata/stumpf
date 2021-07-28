@@ -1,6 +1,6 @@
-******
-Stumpf
-******
+********************************
+Linking to Stumpf, Reichskanzler
+********************************
 
 Karl Friedrich Stumpf-Brentano,
 Die Reichskanzler vornehmlich des
